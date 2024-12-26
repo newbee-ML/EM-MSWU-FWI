@@ -1,0 +1,16 @@
+numpy
+scipy
+matplotlib
+pandas
+seaborn
+scikit-learn
+tensorflow
+keras
+torch
+h5py
+opencv-python
+requests
+beautifulsoup4
+lxml
+pillow
+deepwave
